@@ -8,6 +8,6 @@ public class BlogControllerTest {
 
 	@GetMapping("/test/hello")
 	public String hello() {
-		return "<h1>안녕......</h1>";
+		return "<h1>안녕 구민주......</h1>";
 	}
 }
